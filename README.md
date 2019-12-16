@@ -1,2 +1,2 @@
 # cs231n
-This is the code for cs231n Spring 2019 assignment
+This is the code for assignments in cs231n Spring 2019 
